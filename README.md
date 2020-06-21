@@ -11,7 +11,8 @@ WebForm
 </p>
 
 <div>
-  <img src="./Assets/webform-cities.png" alt="Formulário web de Cidades">
+  <img src="./assets/webform-cities.png" alt="Formulário web de Cidades">
+  <img src="./assets/webform-states.png" alt="Formulário web de Estados">
 </div>
 
 <hr />
